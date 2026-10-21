@@ -1,0 +1,4 @@
+git is a control version system
+it tracks change in files
+it helps in team collaboration 
+it allow branching and merging
